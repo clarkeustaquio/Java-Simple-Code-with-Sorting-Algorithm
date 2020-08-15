@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=QuizController
+comment1.params=question\ quiz\ quizView\ createQuiz\ questionCreation\ viewQuestion
+comment1.target=QuizController(Question,\ Quiz,\ QuizView,\ CreateQuiz,\ QuestionCreation,\ ViewQuestion)
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MergeSort
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MergeSort\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=arrayList
+comment1.target=int[]\ mergeSort(int[])
+comment2.params=arrayList\ start\ end
+comment2.target=int[]\ divideArray(int[],\ int,\ int)
+comment3.params=arrayList\ start\ mid\ end
+comment3.target=int[]\ combineArray(int[],\ int,\ int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

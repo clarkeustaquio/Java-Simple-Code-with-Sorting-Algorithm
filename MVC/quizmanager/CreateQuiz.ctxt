@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CreateQuiz
+comment1.params=
+comment1.target=CreateQuiz()
+comment2.params=
+comment2.target=int\ getQuizID()
+comment3.params=
+comment3.target=java.lang.String\ getQuizDescription()
+comment4.params=saveListener
+comment4.target=void\ saveListener(java.awt.event.ActionListener)
+comment5.params=cancelListener
+comment5.target=void\ cancelListener(java.awt.event.ActionListener)
+comment6.params=questionListener
+comment6.target=void\ newQuestionListener(java.awt.event.ActionListener)
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Phone_Object
+comment1.params=call_rate
+comment1.target=void\ Phone_Object(double)
+comment2.params=text_rate
+comment2.target=void\ Phone_Object(int)
+comment3.params=amount
+comment3.target=boolean\ reload(double)
+comment4.params=minutes
+comment4.target=boolean\ call(int)
+comment5.params=length
+comment5.target=boolean\ text(int)
+comment6.params=
+comment6.target=double\ getLoad()
+comment7.params=
+comment7.target=double\ getCallRate()
+comment8.params=
+comment8.target=int\ getTextRate()
+numComments=9

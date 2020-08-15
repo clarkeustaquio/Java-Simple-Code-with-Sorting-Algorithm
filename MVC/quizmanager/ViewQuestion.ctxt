@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ViewQuestion
+comment1.params=
+comment1.target=ViewQuestion()
+comment2.params=quizID\ description
+comment2.target=void\ addItem(int,\ java.lang.String)
+comment3.params=
+comment3.target=int\ getQuizID()
+comment4.params=setView
+comment4.target=void\ setView(java.lang.String)
+comment5.params=viewListener
+comment5.target=void\ viewBackButtonListener(java.awt.event.ActionListener)
+comment6.params=dropDownListener
+comment6.target=void\ dropDownItemListener(java.awt.event.ItemListener)
+numComments=7

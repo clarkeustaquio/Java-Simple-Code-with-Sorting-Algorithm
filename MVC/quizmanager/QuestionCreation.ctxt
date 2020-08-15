@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=QuestionCreation
+comment1.params=
+comment1.target=QuestionCreation()
+comment2.params=
+comment2.target=int\ getQNumber()
+comment3.params=
+comment3.target=java.lang.String\ getQuestion()
+comment4.params=
+comment4.target=java.lang.String\ getAnswer()
+comment5.params=addButton
+comment5.target=void\ addButtonListener(java.awt.event.ActionListener)
+comment6.params=backListener
+comment6.target=void\ backListener(java.awt.event.ActionListener)
+numComments=7

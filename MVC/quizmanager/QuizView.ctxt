@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=QuizView
+comment1.params=
+comment1.target=QuizView()
+comment2.params=listValue
+comment2.target=void\ setList(java.lang.String)
+comment3.params=createQuizListener
+comment3.target=void\ createListener(java.awt.event.ActionListener)
+comment4.params=displayListener
+comment4.target=void\ displayQuestionListener(java.awt.event.ActionListener)
+numComments=5

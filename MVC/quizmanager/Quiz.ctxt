@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Quiz
+comment1.params=
+comment1.target=Quiz()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=listOfQuestions
+comment2.target=Quiz(java.util.ArrayList)
+comment3.params=ID\ description\ listOfQuestions
+comment3.target=Quiz(int,\ java.lang.String,\ java.util.ArrayList)
+comment4.params=ID
+comment4.target=void\ setID(int)
+comment5.params=
+comment5.target=int\ getID()
+comment6.params=description
+comment6.target=void\ setDescription(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getDescription()
+comment8.params=listOfQuestions
+comment8.target=void\ setQuestions(java.util.ArrayList)
+comment9.params=
+comment9.target=java.util.ArrayList\ getQuestions()
+numComments=11

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BallFrame
+comment1.params=
+comment1.target=BallFrame()
+comment2.params=
+comment2.target=int\ width()
+comment3.params=
+comment3.target=int\ height()
+numComments=4
